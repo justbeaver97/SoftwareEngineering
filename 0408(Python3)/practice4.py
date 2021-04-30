@@ -15,4 +15,4 @@ print("-> Rec1's area : ", rect1.calcArea())
 
 rect2 = Rectangle(2,6)
 print("Rec2's width : ", rect2.width, " & height : ", rect2.height)
-print("-> Rec2's area : ", rect2.calcArea())    
+print("-> Rec2's area : ", rect2.calcArea())
